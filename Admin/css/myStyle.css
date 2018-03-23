@@ -1,0 +1,23 @@
+.lblEdit:hover{
+    background:url("../images/editHover.png");
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+
+.lblEdit{
+    background:url("../images/edit.png");
+    background-size: cover;
+    width:30px;
+    height: 30px;
+
+}
+.h:hover{
+    border-style: ridge;
+    border-color: #ffae23;
+    border-width: 1px;
+}
+
+.h > a:hover{
+    color:white;
+}

@@ -1,0 +1,9 @@
+.space{
+    margin: 10px 0;
+}
+.date{
+    cursor: pointer;
+}
+[contenteditable]:read-only {
+    cursor: pointer;
+}
